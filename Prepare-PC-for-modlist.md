@@ -54,7 +54,7 @@ Run the Skyrim VR launcher through Steam and let it detect your settings, then c
 ## Start Skyrim VR
 
 After you have done everything above and got a clean Skyrim VR installation ready, start the Launcher and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
-Start the game and exit once you're in the main menu. This will make sure that some of the tools the Mod Organizer that comes with Auriel's Dream will find the Skyrim VR folder.
+Start the game and exit once you're in the main menu. This will make sure that some of the tools the Mod Organizer that comes with FUS will find the Skyrim VR folder.
 
 ## Insalling Wabbajack
 

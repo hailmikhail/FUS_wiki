@@ -32,6 +32,8 @@ When this has finished running, place the output into Texgen_output. Press F5 to
 
 ## Running DynDOLOD
 
+Here you have two options, performance or quality.
+
 ### Performance version
 
 

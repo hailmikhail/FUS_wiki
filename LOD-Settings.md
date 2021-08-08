@@ -1,3 +1,5 @@
+[Back to Readme](https://github.com/Kvitekvist/FUS/blob/main/README.md)
+
 # Creating LODs for FUS
 
 A few things are impoartant when you want to create your own LODs. Create them in the right order, choose the right compression and before you start you should delete all the lod output files.

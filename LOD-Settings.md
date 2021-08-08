@@ -36,13 +36,14 @@ Here you have two options, performance or quality.
 
 ### Performance version
 
-
-
 These are the recommended performance settings:
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/lod%20settings/dyndolod_performance_settings.png?raw=true)
 
 Make sure to select all the world spaces. Then click on Low (The difference between no LOD and low is massive, but the difference between low and medium is subtle).
 
 Next, scroll all the way down to Trees and update the values as shown in the screenshot.
-Make sure to follow all the other options from the screenshot as well.
+Make sure to follow all the other options from the screenshot as well. Then press Ok.
 
+After this has ran, copy the output and paste it into the DynDOLOD_Output_performance. Press F5 to update MO2, and make sure that xLODGen_Output is an active mod before going to the next step.
+
+Every time you create new LODs then you should also rerun Synthesis.

@@ -1,3 +1,6 @@
+[Back to Readme](https://github.com/Kvitekvist/FUS/blob/main/README.md)
+
+# Wabbajack Troubleshooting
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 

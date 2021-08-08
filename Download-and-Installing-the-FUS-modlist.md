@@ -18,4 +18,3 @@ https://github.com/Kvitekvist/FUS/releases
 
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
-6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).

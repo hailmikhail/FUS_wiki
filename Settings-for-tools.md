@@ -48,4 +48,8 @@ Make sure to follow all the other options from the screenshot as well. Then pres
 
 After this has ran, copy the output and paste it into the DynDOLOD_Output_performance. Press F5 to update MO2, and make sure that xLODGen_Output is an active mod before going to the next step.
 
-Every time you create new LODs then you should also rerun Synthesis.
+# Synthesis
+
+Every time you create new LODs then you should also rerun Synthesis like this:
+
+![image](https://raw.githubusercontent.com/Kvitekvist/FUS/main/images/synthesis/synthesis.png)

@@ -2,6 +2,8 @@
 
 # Changelog
 
+The latest release can always be found on the [release page](https://github.com/Kvitekvist/FUS/releases)!
+
 ## Version 1.0.3
 
 HOTFIX!
@@ -37,8 +39,6 @@ New save required!
 + Make new backup of plugin order
 + Added version header into MO2
 
-New version here: https://github.com/Kvitekvist/FUS/releases/tag/1.0.2
-
 ## Version 1.0.1
 
 ### Mods added
@@ -70,5 +70,3 @@ You can activate or deactivate any mod marked as optional. Load order will be pr
 We have decided not to include most of the tools we use when developing the modlist. This is not because we don't want to share how we do things. In fact we added all this in the readme above. We have excluded the tools because if a tool hosted on GIT is updated the list goes down which is a typical Dyndolod issue. LOOT is removed because running it will break the modlist. 
 
 We are also continuously working on improving the readme!
-
-New version here:https://github.com/Kvitekvist/FUS/releases/tag/1.0.1

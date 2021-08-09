@@ -6,6 +6,8 @@ We doubt you need to do this since you likely already have this installed, but b
 
 # Steam Config
 
+First of all, we highly recommend not using any supersampling, neither in Steam/Oculus, nor ingame. Set everything to 100%. Supersampling is a very inefficient way of anti-aliasing and given the hunger for performance in Skyrim VR you most likely will drop into reprojection when you try using it. 
+
 ## Disable the Steam Overlay
 
 The Steam Overlay can cause issues with ENB and is recommended to be turned off.

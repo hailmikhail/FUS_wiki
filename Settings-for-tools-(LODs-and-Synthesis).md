@@ -39,7 +39,7 @@ This is the most simple one to run. This will create LOD textures for us. Follow
 Feel free to test different texture sizes. We are focusing on performance and find that these settings work fine.
 What you should be aware of is that we are uxing BC3 compression. This is strongly recommended for VR.
 
-When this has finished running, place the output into Texgen_output. Press F5 to update MO2, and make sure that xLODGen_Output is an active mod before going to the next step.
+When this has finished running, place the output into Texgen_output. Press F5 to update MO2, and make sure that Texgen_output is an active mod before going to the next step.
 
 ## DynDOLOD
 
@@ -56,7 +56,7 @@ Make sure to select all the world spaces. Then click on Low (The difference betw
 Next, scroll all the way down to Trees and update the values as shown in the screenshot.
 Make sure to follow all the other options from the screenshot as well. Then press Ok.
 
-After this has ran, copy the output and paste it into the DynDOLOD_Output_performance. Press F5 to update MO2, and make sure that xLODGen_Output is an active mod before going to the next step.
+After this has ran, copy the output and paste it into the DynDOLOD_Output_performance. Press F5 to update MO2, and make sure that DynDOLOD_Output_performance is an active mod before going to the next step.
 
 # Synthesis Patcher
 

@@ -1,10 +1,4 @@
-=========================================================================================================
-=========================================================================================================
-||                                                                                                     ||
-||                           !!LUX LUMINANCE - MORE BRIGHTNESS - DIVERSE OPTIONS!!                     ||
-||                                                                                                     ||
-=========================================================================================================
-=========================================================================================================
+# !!LUX LUMINANCE - MORE BRIGHTNESS - DIVERSE OPTIONS!!
 
 Credits go to DarkSynth which I have been in contact with for a bit who made the lux template bright up. 
 This inspired me to make more edits. This is for those who are using a darker ENB and love LUX or want to try out LUX but find it a bit too dark.

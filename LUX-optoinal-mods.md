@@ -7,7 +7,6 @@ There are several files that have been made to adjust brightness for lux. This m
 The template DarkSynth made was upping the Y+/Y- and X+/X- RGB vallues with +30 under DALC in SSEEdit in the playerhomes templates only. 
 The first number meaning the homes and the second meaning the dungeon templates.
 
-=========================================================================================================
 
  ||============||
 ||  !!UPDATE!!  ||
@@ -17,7 +16,6 @@ The first number meaning the homes and the second meaning the dungeon templates.
 1.2) Added new versions; a 1010 version and a 4040 version. Rechecked the template for the 5050 version, adjusted RGB vallues correctly.
 1.3) Fixed several incorrect values, the numbering on some template RGB values were incorrectly adjusted. Added a 10XX version.
 
-=========================================================================================================
 
  ||============================||
 ||  -Which version to choose?-  ||
@@ -43,7 +41,6 @@ The first number meaning the homes and the second meaning the dungeon templates.
 
 -- Only Homes&Shops Bright: Pick the 30XX version (Dungeons have standard LUX brightness)--
 
-=========================================================================================================
 
  ||===============||
 ||  -Instalation-  ||
@@ -51,12 +48,10 @@ The first number meaning the homes and the second meaning the dungeon templates.
  
  Pick the file like explained above and simply drag it into your favorite mod manager.
 
-=========================================================================================================
  
 The compatibility patches from LUX still work as those patches do not adress the light templates. 
 They mostly fix lightbulb placement as far as I understand (probably more but not the thing which was editted) Meaning that it  should work.
 
-=========================================================================================================
 
  ||===================||
 ||  !!FUTURE UPDATE!!  ||
@@ -70,11 +65,7 @@ They mostly fix lightbulb placement as far as I understand (probably more but no
  
  Good news! I had contact with Ggunit, the creator of LUX. In the next update my editted files will be added in his fomod as optionals or as a seperate download on the LUX modpage!
  
-=========================================================================================================
 
 As a bonus and seperate file it also contains a Sounds of Skyrim complete - MCM edition by Arthmoor compatibility patch (Lux - SoS (Arthmoor).
 
 I hope you enjoy!
-
-=========================================================================================================
-=========================================================================================================

@@ -51,21 +51,3 @@ The first number meaning the homes and the second meaning the dungeon templates.
  
 The compatibility patches from LUX still work as those patches do not adress the light templates. 
 They mostly fix lightbulb placement as far as I understand (probably more but not the thing which was editted) Meaning that it  should work.
-
-
- ||===================||
-||  !!FUTURE UPDATE!!  ||
- ||===================||
-
- - Add a 20xx version
- - Add a 40xx version
- - Add a 50xx version
- - Add a 4010 version
- - Add a 5010 version
- 
- Good news! I had contact with Ggunit, the creator of LUX. In the next update my editted files will be added in his fomod as optionals or as a seperate download on the LUX modpage!
- 
-
-As a bonus and seperate file it also contains a Sounds of Skyrim complete - MCM edition by Arthmoor compatibility patch (Lux - SoS (Arthmoor).
-
-I hope you enjoy!

@@ -1,12 +1,10 @@
 [Back to Readme](https://github.com/Kvitekvist/FUS/blob/main/README.md)
 
-# Changelog
-
 The latest release can always be found on the [release page](https://github.com/Kvitekvist/FUS/releases)!
 
-#Version 1.0.4 of FUS
+## Version 1.0.4 of FUS
 
-## Mods added
+### Mods added
 + [Serveral LUX options](https://github.com/Kvitekvist/FUS/wiki/LUX-optoinal-mods)
 + True Storms and Azurite Patch
 + The Grass Your Mother Warned About
@@ -26,7 +24,7 @@ The latest release can always be found on the [release page](https://github.com/
 + Auto Sneak and Jump VR
 + VR Menu Mouse Fix
 
-## Mods updated
+### Mods updated
 + HIGGS
 + Dual Wield Block VR
 + patch - azurite weathers
@@ -36,7 +34,7 @@ The latest release can always be found on the [release page](https://github.com/
 + dyndolod output
 + Syntheis
 
-### Synthesis patches
+#### Synthesis patches
 + SkyVRaanWeatherPatcher
 + SkyVRaanAutoPatcher
 + Florafixer
@@ -45,11 +43,11 @@ The latest release can always be found on the [release page](https://github.com/
 + LootableCreates
 + SpellAbsorbFix
 
-## Mods removed
+### Mods removed
 + Cathedral Landscape
 + Point the way (Replaced by Waymark)
 
-## Other
+### Other
 + Packed xLodgen and texgen to BSA to improve MO2 boot time.
 + Added FUS welcome message in character creation
 + Added update option for skyrim.ini in the Essential Files manager

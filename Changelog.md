@@ -5,7 +5,7 @@ The latest release can always be found on the [release page](https://github.com/
 ## Version 1.0.4 of FUS
 
 ### Comments
-General update notes
+Principally safe to update on an ongoing save, but you need to check if the correct mods are still enabled for you. We disabled some mods by default now to not make the game more difficult than vanilla by default. Just enable them again :) (Skyrim will also tell you that mods are missing when loading a save)
 
 ### Mods added
 + [Serveral LUX options](https://github.com/Kvitekvist/FUS/wiki/LUX-optional-mods)

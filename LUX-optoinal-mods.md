@@ -1,8 +1,5 @@
 # LUX LUMINANCE - MORE BRIGHTNESS - DIVERSE OPTIONS
 
-Credits go to DarkSynth which I have been in contact with for a bit who made the lux template bright up. 
-This inspired me to make more edits. This is for those who are using a darker ENB and love LUX or want to try out LUX but find it a bit too dark.
-
 There are several files that have been made to adjust brightness for lux. This means interiors as well as dungeons. Everything has been done simply in SSEEdit adjusting RGB vallues.
 The template DarkSynth made was upping the Y+/Y- and X+/X- RGB vallues with +30 under DALC in SSEEdit in the playerhomes templates only. 
 The first number meaning the homes and the second meaning the dungeon templates.

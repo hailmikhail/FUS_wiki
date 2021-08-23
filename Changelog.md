@@ -4,6 +4,58 @@
 
 The latest release can always be found on the [release page](https://github.com/Kvitekvist/FUS/releases)!
 
+#Version 1.0.4 of FUS
+
+## Mods added
++ [Serveral LUX options](https://github.com/Kvitekvist/FUS/wiki/LUX-optoinal-mods)
++ True Storms and Azurite Patch
++ The Grass Your Mother Warned About
++ The Grass Your Mother Warned About (OPTIONAL Rift Fallen Leaves Options)
++ Waymark - A Road Signs Mod
++ Static Mesh Improvement Mod - SMIM (Light version)
++ Landscape Fixes For Grass Mods
++ Landscape Fixes For Grass Mods (Great cities patch)
++ Landscape Fixes For Grass Mods (The Grass Your Mother Warned About Patch)
++ Cathedral - 3D Pine Grass (Full 3D Coverage)
++ Cathedral - 3D Pine Grass (High Poly Green Grass Update)
++ Clean Menu - VR Edition
++ aMidianBorn Book of Silence SE -- CREATURES
++ Septentrional Landscapes SE - 2K
++ Hyperborean Snow SE - 2K
++ Northern Shores SE - 2K
++ Auto Sneak and Jump VR
++ VR Menu Mouse Fix
+
+## Mods updated
++ HIGGS
++ Dual Wield Block VR
++ patch - azurite weathers
++ DynDOLOD Resources SE 3
++ xlodgen output
++ texgen output
++ dyndolod output
++ Syntheis
+
+### Synthesis patches
++ SkyVRaanWeatherPatcher
++ SkyVRaanAutoPatcher
++ Florafixer
++ Khajiitearsshow
++ DisplaySpellTomeLevel
++ LootableCreates
++ SpellAbsorbFix
+
+## Mods removed
++ Cathedral Landscape
++ Point the way (Replaced by Waymark)
+
+## Other
++ Packed xLodgen and texgen to BSA to improve MO2 boot time.
++ Added FUS welcome message in character creation
++ Added update option for skyrim.ini in the Essential Files manager
++ Changed name from "Visuals" to "Apperance" on the profiles
++ Changed mod position for Nobel.
+
 ## Version 1.0.3
 
 HOTFIX!

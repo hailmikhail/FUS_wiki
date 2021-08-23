@@ -8,7 +8,7 @@ The latest release can always be found on the [release page](https://github.com/
 General update notes
 
 ### Mods added
-+ [Serveral LUX options](https://github.com/Kvitekvist/FUS/wiki/LUX-optoinal-mods)
++ [Serveral LUX options](https://github.com/Kvitekvist/FUS/wiki/LUX-optional-mods)
 + True Storms and Azurite Patch
 + The Grass Your Mother Warned About
 + The Grass Your Mother Warned About (OPTIONAL Rift Fallen Leaves Options)

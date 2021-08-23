@@ -4,6 +4,9 @@ The latest release can always be found on the [release page](https://github.com/
 
 ## Version 1.0.4 of FUS
 
+### Comments
+General update notes
+
 ### Mods added
 + [Serveral LUX options](https://github.com/Kvitekvist/FUS/wiki/LUX-optoinal-mods)
 + True Storms and Azurite Patch
@@ -53,6 +56,22 @@ The latest release can always be found on the [release page](https://github.com/
 + Added update option for skyrim.ini in the Essential Files manager
 + Changed name from "Visuals" to "Apperance" on the profiles
 + Changed mod position for Nobel.
++ Fixed Category numbers
++ Unchecked a few mods by default
++ Disabled all features from MageVR except the backpack.
++ Fixed a spellforge base library issue
+
+### INI Updates
+ini files need updating.
+Download them from here:
+https://github.com/Kvitekvist/FUS/tree/main/ini
+
+skyrimvr.ini + skyrimprefs.ini goes into the 3 profiles folders:
+profiles\FUS (Basic)
+profiles\FUS RO (Basic + Appearance)
+profiles\FUS RO DAH (Basic + Appearance + Gameplay)
+
+skyrim.ini goes into the folder where skyrimvr.exe is located: steam\SkyrimVR
 
 ## Version 1.0.3
 

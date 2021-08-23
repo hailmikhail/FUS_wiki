@@ -7,16 +7,6 @@ There are several files that have been made to adjust brightness for lux. This m
 The template DarkSynth made was upping the Y+/Y- and X+/X- RGB vallues with +30 under DALC in SSEEdit in the playerhomes templates only. 
 The first number meaning the homes and the second meaning the dungeon templates.
 
-
- ||============||
-||  !!UPDATE!!  ||
- ||============||
- 
-1.1) Added a single extra template, the 'obscure' template. This is only for the 30XX, 3010, 2010 and 10XX versions. Added a 5050 version.
-1.2) Added new versions; a 1010 version and a 4040 version. Rechecked the template for the 5050 version, adjusted RGB vallues correctly.
-1.3) Fixed several incorrect values, the numbering on some template RGB values were incorrectly adjusted. Added a 10XX version.
-
-
  ||============================||
 ||  -Which version to choose?-  ||
  ||============================||

@@ -30,14 +30,3 @@ The first number meaning the homes and the second meaning the dungeon templates.
 -- Only Homes&Shops a little brighter: Pick the 10XX Version (Dungeons have standard LUX brightness)--
 
 -- Only Homes&Shops Bright: Pick the 30XX version (Dungeons have standard LUX brightness)--
-
-
- ||===============||
-||  -Instalation-  ||
- ||===============||
- 
- Pick the file like explained above and simply drag it into your favorite mod manager.
-
- 
-The compatibility patches from LUX still work as those patches do not adress the light templates. 
-They mostly fix lightbulb placement as far as I understand (probably more but not the thing which was editted) Meaning that it  should work.

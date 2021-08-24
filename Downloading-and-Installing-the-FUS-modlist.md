@@ -17,4 +17,7 @@ https://github.com/Kvitekvist/FUS/releases
 3. Run the downloaded FUS.wabbajack install file and set the installation folder to the folder you just created. The downloads path should automatically fill in the installation path.
 
 4. Click the Go/Begin button
+
 5. Wait for Wabbajack to finish
+
+If you run into any issues see the [wabbajack troubleshooting page](https://github.com/Kvitekvist/FUS/wiki/Problems-with-Wabbajack).

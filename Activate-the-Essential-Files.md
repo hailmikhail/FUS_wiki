@@ -27,3 +27,4 @@ Then you will see this menu:
 3. SteamVR - This is on by default, necessary if you run the game via SteamVR.
 4. opencompoisite - This can replace SteamVR and will give Oculus users a strong performance boost.
 5. openvr_fsr - AMD sharpener, not compatible with opencomposite, mixed reviews. Test at your own risk.
+6. update skyrim.ini (not shown in image) - will only update that specific ini named skyrim.ini in the steam\skyrimvr folder. The other inis need to be updated separately if you are coming from an older version with changed in settings (assuming you even want to change the inis).

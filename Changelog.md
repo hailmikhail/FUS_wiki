@@ -2,7 +2,13 @@
 
 The latest release can always be found on the [release page](https://github.com/Kvitekvist/FUS/releases)!
 
-## Version 1.0.4 of FUS
+## Version 1.0.5
+
+This is a hotfix update. 
+
+Some mods were not included in the 1.0.4 modlist because of a missing flag to include them. VrVision preset has been updated. If you were using VrVision previously, we recommend that you open the MO2 ENB tool, then toggle off then back on the VrVision option. Green Tundra Patch was removed as it was intended to be removed. New xLodgen files were generated. All light options for LUX are now available as well. Backup options to restore load order is also updated.
+
+## Version 1.0.4
 
 ### Comments
 Principally safe to update on an ongoing save, but you need to check if the correct mods are still enabled for you. We disabled some mods by default now to not make the game more difficult than vanilla by default. Just enable them again :) Skyrim will also tell you that mods are missing when loading a save.

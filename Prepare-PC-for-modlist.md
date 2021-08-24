@@ -6,13 +6,13 @@ We doubt you need to do this since you likely already have this installed, but b
 
 # Steam Config
 
-First of all, we highly recommend not using any supersampling, neither in Steam/Oculus, nor ingame. Set everything to 100%. Supersampling is a very inefficient way of anti-aliasing and given the hunger for performance in Skyrim VR you most likely will drop into reprojection when you try using it. 
+First of all, we highly recommend not using any supersampling, neither in Steam/Oculus, nor ingame. Set the render resolution to 100% (or 1.0 in Oculus) everywhere. Supersampling is a very inefficient way of anti-aliasing and given the hunger for performance in Skyrim VR you most likely will drop into reprojection when you try using it. 
 
 ## Disable the Steam Overlay
 
 The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 
-Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
+Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox. This can be done even when the game is not yet installed.
 
 ## Set the game language to English
 
@@ -21,6 +21,8 @@ Just do it. This entire Modlist is in English and 99% of all mods you will find 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
 ## Clean Skyrim
+
+You can skip this step if you did not install Skyrim VR yet.
 
 Delete the following directories:
 1. Open Stem Steam
@@ -35,11 +37,11 @@ Delete the following directories:
 7. Navigate to Users\YOURNAME\Documents\My Games\
 8. Delete the SkyrimVR folder
 
-## Reinstall Skyrim
+## Install Skyrim
 
-Open Steam and ensure that Skyrim is uninstalled through on it.
-Reinstall Skyrim VR from Steam.
-Run the Skyrim VR launcher through Steam and let it detect your settings, then close the launcher. This is only necessary once.
+Open Steam and ensure that Skyrim is uninstalled through on it. Otherwise, go up one step and clean it.
+
+Then, just install Skyrim VR from Steam.
 
 ## Start Skyrim
 

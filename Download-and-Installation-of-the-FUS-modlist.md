@@ -10,14 +10,12 @@ The download and installation process can take a very long time depending on you
 1. Download the latest FUS release from here:
 https://github.com/Kvitekvist/FUS/releases
 
-2. Open Wabbajack:
+2. Do not open wabbajack itself, as FUS is not yet present in the official browse modlists feature. Instead, run the downloaded FUS.wabbajack install file. 
 
-![image](https://i.ibb.co/JK3rdZc/Browse-modlist.png)
-
-3. Do not browse the modlists. Instead, run the downloaded FUS.wabbajack install file and set the installation folder to the folder you just created. The downloads path should automatically fill in the installation path.
+3. Set the installation folder to the folder you just created. The downloads path should automatically fill in the installation path.
 
 4. Click the Go/Begin button
 
 5. Wait for Wabbajack to finish
 
-If you run into any issues see the [wabbajack troubleshooting page](https://github.com/Kvitekvist/FUS/wiki/Wabbajack-Troubleshooting).
+If you run into any issues see the [wabbajack troubleshooting page](https://github.com/Kvitekvist/FUS/wiki/Wabbajack-Troubleshooting). 

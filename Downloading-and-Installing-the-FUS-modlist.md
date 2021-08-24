@@ -20,4 +20,4 @@ https://github.com/Kvitekvist/FUS/releases
 
 5. Wait for Wabbajack to finish
 
-If you run into any issues see the [wabbajack troubleshooting page](https://github.com/Kvitekvist/FUS/wiki/Problems-with-Wabbajack).
+If you run into any issues see the [wabbajack troubleshooting page](https://github.com/Kvitekvist/FUS/wiki/Wabbajack-Troubleshooting).

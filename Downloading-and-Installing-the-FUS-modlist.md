@@ -14,7 +14,7 @@ https://github.com/Kvitekvist/FUS/releases
 
 ![image](https://i.ibb.co/JK3rdZc/Browse-modlist.png)
 
-3. Run the downloaded FUS.wabbajack install file and set the installation folder to the folder you just created. The downloads path should automatically fill in the installation path.
+3. Do not browse the modlists. Instead, run the downloaded FUS.wabbajack install file and set the installation folder to the folder you just created. The downloads path should automatically fill in the installation path.
 
 4. Click the Go/Begin button
 

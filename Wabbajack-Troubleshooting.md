@@ -4,6 +4,8 @@
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
+In general, if there are connection issues or stuff like "Got a 521 from ...." or "Build server is down", sometimes you just need to wait it out. Maybe restart the process or possibly the whole PC, but don'T worry, you won't lose your progress!
+
 **"Missing nexusapikey"**:
 
 This can happen if the nexus is unavailable. Check if you can reach it in your browser.

@@ -7,6 +7,9 @@ The latest release can always be found on the [release page](https://github.com/
 ### Comments
 Principally safe to update on an ongoing save, but you need to check if the correct mods are still enabled for you. We disabled some mods by default now to not make the game more difficult than vanilla by default. Just enable them again :) Skyrim will also tell you that mods are missing when loading a save.
 
+We changed the profile names to be more accurate. Wabbajack does not delete profiles though. This is in case users make their own profiles.
+So, all users who updated now have the old profiles plus the new ones. You can delete the old profiles or change profiles from the dropdown. This is not an issue for brand new users.
+
 ### Mods added
 + [Serveral LUX options](https://github.com/Kvitekvist/FUS/wiki/LUX-optional-mods)
 + True Storms and Azurite Patch

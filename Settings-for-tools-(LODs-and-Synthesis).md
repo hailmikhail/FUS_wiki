@@ -60,6 +60,12 @@ After this has ran, copy the output and paste it into the DynDOLOD_Output_perfor
 
 # Synthesis Patcher
 
-Every time you create new LODs and every time you change anything in the weather setup then you should also rerun Synthesis like this:
+Every time you create new LODs and every time you change anything in the weather setup then you should also rerun Synthesis with these patchers enabled:
 
-![image](https://raw.githubusercontent.com/Kvitekvist/FUS/main/images/synthesis/synthesis.png)
+1. SkyVRaanWeatherPatcher
+2. SkyVRaanAutoPatcher
+3. Florafixer
+4. Khajiitearsshow
+5. DisplaySpellTomeLevel
+6. LootableCreates
+7. SpellAbsorbFix

@@ -6,7 +6,7 @@ The list comes with 3 profiles:
 + FUS RO - Same as FUS, but also comes with a visual upgrade
 + FUS RO DAH - Same as above, but also contains tons of optoinal game play changes.
 
-FUS RO DAH is the default profile, and all mods are active by default. Users can easily deactivate any optional mods they do not want, as long as they are makred as optional.
+FUS RO DAH is the default profile, and all mods are active by default. Users can easily deactivate any optional mods they do not want, as long as they are marked as optional.
 
 ## There is no GFF
 In FUS, we use an ENB manager to move what would normally go into the GFF step. This way, users can toggle on and off the esstinal files, but it also makes it easier to choose between open composite, FSR or steamVR. Essentail files and "update skyrim.ini" must be activate on install.

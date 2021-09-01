@@ -22,6 +22,8 @@ Then you will see this menu:
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/update%20ini.png?raw=true)
 
+IF any options are already checked, then you should first uncheck them (grey) then check the essential files you need.
+
 1. You must activate the the "00 Essential Files" option. All others are optional.
 2. "00 3D Audio" ads 3D audio \ surround to SkyrimVR. Really good, effectively essential, but you might get a bit more performance without.
 3. SteamVR - This is on by default, necessary if you run the game via SteamVR.

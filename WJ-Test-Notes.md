@@ -2,9 +2,9 @@
 
 ## Profiles
 The list comes with 3 profiles:
-FUS - Just the fundamental mods for a good VR experience that is also intended as a starting point for others to mod start modding from.
-FUS RO - Same as FUS, but also comes with a visual upgrade
-FUS RO DAH - Same as above, but also contains tons of optoinal game play changes.
++ FUS - Just the fundamental mods for a good VR experience that is also intended as a starting point for others to mod start modding from.
++ FUS RO - Same as FUS, but also comes with a visual upgrade
++ FUS RO DAH - Same as above, but also contains tons of optoinal game play changes.
 
 FUS RO DAH is the default profile, and all mods are active by default. Users can easily deactivate any optional mods they do not want, as long as they are makred as optional.
 

@@ -64,8 +64,8 @@ Every time you create new LODs and every time you change anything in the weather
 
 1. SkyVRaanWeatherPatcher
 2. SkyVRaanAutoPatcher
-3. Florafixer
+3. SynFloraFix
 4. Khajiitearsshow
-5. DisplaySpellTomeLevel
-6. LootableCreates
+5. DisplaySpellTomeLevelPatcher
+6. LootableCrates
 7. SpellAbsorbFix

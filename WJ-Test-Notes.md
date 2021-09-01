@@ -12,7 +12,7 @@ FUS RO DAH is the default profile, and all mods are active by default. Users can
 In FUS, we use an ENB manager to move what would normally go into the GFF step. This way, users can toggle on and off the esstinal files, but it also makes it easier to choose between open composite, FSR or steamVR. Essential files and "update skyrim.ini" must be activated on install.
 
 ## Optional mods
-If a user deslect an optional mod, then the mod won't be removed from the plugins list. We have placeholder plugins that kick in if a mod is deselected. This way, load order is perserved, regardless of which optional mods are chosen.
+If a user deselects an optional mod, then the mod won't be removed from the plugins list. We have placeholder plugins that kick in if a mod is deselected. This way, load order is perserved, regardless of which optional mods are chosen.
 
 ## ENB or ReShade?
 The modlist is mostly intended to use with VrVision, but also works quite well with Sensorium ENB.

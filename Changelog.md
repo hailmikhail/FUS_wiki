@@ -2,6 +2,31 @@
 
 The latest release can always be found on the [release page](https://github.com/Kvitekvist/FUS/releases)!
 
+## Version 1.0.10
+
+Submission to the official Wabbajack list server. Nothing relevant changed for users.
+
+## Version 1.0.9
+
+Minor update, but big performanc upgrade, most impact outside Whiterun. 
+Save file compatible with version 1.0.8.1 test
+Backup of loadorder is updated for each profile
+
+### Mods added
++  Lightened Skyrim (1-2 better MS)
++ Skyrim Landscape and Water Fixes
++ Custom grass patch for Whiterun (We got as much as 20-30 more FPS outside whiterun during tests)
+
+### Mod updates
++ Synthesis
+
+### Ini updates
++  fsneakheightpercent = 0
+
+## Pre-release Versions 1.0.6 to 1.0.8
+
+These were test versions as we changed no mods but only tinkered with the in files and Bilago's tool and tested some performance stuff. 
+
 ## Version 1.0.5
 
 This is a hotfix update. 

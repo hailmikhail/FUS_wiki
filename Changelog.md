@@ -4,11 +4,19 @@ The latest release can always be found on the [release page](https://github.com/
 
 ## Version 1.1.0
 ### General Notes
-Toggle off then on Essential Files after the update.
-Mods that don't work with open composite are marked with "[No OC]"
+
++ Toggle off then on Essential Files after the update.
++ Mods that don't work with open composite are marked with "[No OC]"
++ New ini files are available on the git repository with three different quality levels. Download and put into the profile folder that you use within the FUS install folder
+
+
 ### Mods added
+
 + Pull Mastery Hookshot or Grappling hook(SE)
+
+
 ### Mods updated
+
 + Spell Wheel
 + Blended Roads
 + Immersive Sounds - Compendium
@@ -17,12 +25,18 @@ Mods that don't work with open composite are marked with "[No OC]"
 + Drop on Death
 + HIGGS
 + Cathedral - Armory
+
+
 ### Mods Removed
 
+
 ### Bug Fixes
+
 + Removed flying barrel over Whiterun giant camp
 
+
 ### Other
+
 + Moved 3 audio mods into essential part to prevent NPCs not having voice audio in FUS profile
 + Moved 3D audio into essential files
 + Updated ini files

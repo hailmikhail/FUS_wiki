@@ -2,6 +2,33 @@
 
 The latest release can always be found on the [release page](https://github.com/Kvitekvist/FUS/releases)!
 
+## Version 1.1.0
+### General Notes
+Toggle off then on Essential Files after the update.
+Mods that don't work with open composite are marked with "[No OC]"
+### Mods added
++ Pull Mastery Hookshot or Grappling hook(SE)
+### Mods updated
++ Spell Wheel
++ Blended Roads
++ Immersive Sounds - Compendium
++ Engine Fixes VR
++ Landscape Fixes For Grass Mods
++ Drop on Death
++ HIGGS
++ Cathedral - Armory
+### Mods Removed
+
+### Bug Fixes
++ Removed flying barrel over Whiterun giant camp
+
+### Other
++ Moved 3 audio mods into essential part to prevent NPCs not having voice audio in FUS profile
++ Moved 3D audio into essential files
++ Updated ini files
++ Medium profile by default
++ disable tree animations in all inis for performance reasons
+
 ## Version 1.0.10
 
 Submission to the official Wabbajack list server. Nothing relevant changed for users.

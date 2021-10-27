@@ -22,11 +22,12 @@ Then you will see this menu:
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/update%20ini.png?raw=true)
 
-IF any options are already checked, then you should first uncheck them (grey) then check the essential files you need.
+3D Audio is now integrated into the essential files!
+
+If any options are already checked, then you should first uncheck them (grey) then check the essential files you need.
 
 1. You must activate the the "00 Essential Files" option. All others are optional.
-2. "00 3D Audio" ads 3D audio \ surround to SkyrimVR. Really good, effectively essential, but you might get a bit more performance without.
-3. SteamVR - This is on by default, necessary if you run the game via SteamVR.
-4. opencompoisite - This can replace SteamVR and will give Oculus users a strong performance boost.
-5. openvr_fsr - AMD sharpener, not compatible with opencomposite, mixed reviews. Test at your own risk.
-6. update skyrim.ini - will only update that specific ini named skyrim.ini in the steam\skyrimvr folder. You must toggle this option off and then on to get the update. The other inis need to be updated separately if you are coming from an older version with changed in settings (assuming you even want to change the inis).
+2. SteamVR - This is on by default, necessary if you run the game via SteamVR.
+3. opencompoisite - This can replace SteamVR and will give Oculus users a strong performance boost.
+4. openvr_fsr - AMD sharpener, not compatible with opencomposite, mixed reviews. Test at your own risk.
+5. update skyrim.ini - will only update that specific ini named skyrim.ini in the steam\skyrimvr folder. You must toggle this option off and then on to get the update. The other inis need to be updated separately if you are coming from an older version with changed in settings (assuming you even want to change the inis).

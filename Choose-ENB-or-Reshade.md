@@ -18,6 +18,6 @@ If any preset was marked as on, then turn them off, then turn on the selection o
 
 The best option for low performance impact but high visual gains including a sharp image is the **VRVision** reshade option. 
 
-**IMPORTANT:** If you want to use the Sensorium ENB you need to change the ini file of the AW_Cangar patch and set the tonemapper to 0. Probably also a good idea for the other ENBs although they don't explicitly demand it. Don't forget to switch it back on when choosing a Reshade again.
+**IMPORTANT:** If you want to use the Sensorium ENB you need to change the ini using Bilago's Tool (start from MO2 in the dropdown): set `bUseFilmicCurve=0`. Probably also a good idea for the other ENBs although they don't explicitly demand it. Don't forget to switch it back on when choosing a Reshade again.
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/enb%20selection.png?raw=true)

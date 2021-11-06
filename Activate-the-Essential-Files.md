@@ -20,7 +20,7 @@ Then navigate to the Presets menu by pressing the symbol in the top left (the th
 
 Then you will see this menu:
 
-![image](https://github.com/Kvitekvist/FUS/blob/main/images/update%20ini.png?raw=true)
+![image](https://github.com/Kvitekvist/FUS/blob/main/images/essential_files.png?raw=true)
 
 3D Audio is now integrated into the essential files!
 

@@ -2,6 +2,8 @@
 
 The latest release can always be found on the [release page](https://github.com/Kvitekvist/FUS/releases)!
 
+THE RELEASE PAGE NOW CONTAINS THE CHANGELOG DIRECTLY! Below you can find old changelogs for reference.
+
 ## Version 1.1.0
 ### General Notes
 

@@ -33,4 +33,6 @@ In FUS there are four main options to improve performance:
 
 ## A note on Oculus Quest
 
-A very easy way to improve performance on Oculus devices is to use "opencomposite" in the essential files selection. This will break Mage VR, but the added performance is worth it. You can expect a 10-20% performance improvement. Additionally, the Quest does not make best use of the pixels, so the best is to actually subsample by setting the render resolution in the graphics tool to 0.7. Oversampling will lead to compression artifacts and the Quest cannot actually make use of the pixels since it does not get the native image via link, but a compressed version.
+A very easy way to improve performance on Oculus devices is to use "opencomposite" in the essential files selection. This will break Mage VR, but the added performance is worth it. You can expect a 10-20% performance improvement. 
+
+Additionally, the Quest does not make best use of the pixels, so the best is to actually subsample by setting the render resolution in the graphics tool to 0.7. Oversampling will lead to compression artifacts and the Quest cannot actually make use of the pixels since it does not get the native image via link, but a compressed version.

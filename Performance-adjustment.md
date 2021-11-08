@@ -1,6 +1,6 @@
 [Back to Readme](https://github.com/Kvitekvist/FUS/blob/main/README.md)
 
-# Performance tweaking
+# Performance adjustment
 
 First of all, we recommend playing the game on a render resolution of 100% (SteamVR) or 1.0 (Oculus). If you have an increased render resolution, your performance will suffer. On Oculus quest, we actually recommend a lower render resolution of 0.7.
 

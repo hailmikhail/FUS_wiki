@@ -2,7 +2,7 @@
 
 # Performance adjustment
 
-First of all, we recommend playing the game on a render resolution of 100% (SteamVR) or 1.0 (Oculus). If you have an increased render resolution, your performance will suffer. On Oculus quest, we actually recommend a lower render resolution of 0.7.
+First of all, we recommend playing the game on a render resolution of 100% (SteamVR) or 1.0 (Oculus). If you have an increased render resolution, your performance will suffer. On Oculus quest, we actually recommend a lower render resolution of 0.7 (see below for [Quest settings](#a-note-on-oculus-quest)).
 
 Then, FUS comes with a few options that can be changed in order to get the best performance for your system.
 
@@ -31,6 +31,6 @@ In FUS there are four main options to improve performance:
 * **Grass density:** Grass is always one of the hardest hitter in Skyrim VR. We removed the ini from the mod itself and you can adjust the grass density using Bilago's INI Confoguration Tool within MO2. In the dropdown menu of what to start (shows `Play FUS (SKSE)` by default) in MO2, select the `INI Configuration Tool`, then press `Run`. Inside the tool, filter for "imingrasssize", which should be 80 by default. You need to **increase** that value to **decrease** the grass density, it is an inverse relationship! E.g. set it to 90 or 100 if you need better performance. Conversely, you can decrease it to 70 or 60 if you have a beefy PC.
 * **The ini files:** We provide three different ini quality presets. By default the "Medium" preset is selected, but you can try the low or high preset and / or play around with the values yourself. You will find all presets in your FUS folder in `FUS\tools\Ini options`. Here you can see three folders, go into the folder you want to use and copy the **content** of the folder into the profile folder that you are using, e.g. `FUS\profiles\FUS RO DAH (Basic + Appearance + Gameplay)`. You can try out different presets and open the files to see their values and adjust to your explicit needs.
 
-## A note on Oculus (Meta) Quest
+## A note on Oculus Quest
 
 A very easy way to improve performance on Oculus devices is to use "opencomposite" in the essential files selection. This will break Mage VR, but the added performance is worth it. You can expect a 10-20% performance improvement. Additionally, the Quest does not make best use of the pixels, so the best is to actually subsample by setting the render resolution in the graphics tool to 0.7. Oversampling will lead to compression artifacts and the Quest cannot actually make use of the pixels since it does not get the native image via link, but a compressed version.

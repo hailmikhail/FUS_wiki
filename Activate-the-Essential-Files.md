@@ -18,16 +18,14 @@ Then navigate to the Presets menu by pressing the symbol in the top left (the th
 
 ![image](https://i.ibb.co/YkFSZJ1/enb3.jpg)
 
-Then you will see this menu:
+Then you will see this menu and need to first disable all, and then enable like this:
 
-![image](https://github.com/Kvitekvist/FUS/blob/main/images/essential_files.png?raw=true)
-
-3D Audio is now integrated into the essential files!
+![image](https://github.com/Kvitekvist/FUS/blob/main/images/essential_files_steam.png?raw=true)
 
 If any options are already checked, then you should first uncheck them (grey) then check the essential files you need.
 
-1. You must activate the the "00 Essential Files" option. All others are optional.
-2. SteamVR - This is on by default, necessary if you run the game via SteamVR.
-3. opencompoisite - This can replace SteamVR and will give Oculus users a strong performance boost.
+1. You must activate the "00 Essential Files" option. 
+2. SteamVR - Necessary if you run the game via SteamVR.
+3. opencompoisite - This can replace SteamVR and will give Oculus users a strong performance boost. _Switch off SteamVR in that case!_
 4. openvr_fsr - AMD sharpener, not compatible with opencomposite, mixed reviews. Test at your own risk.
-5. update skyrim.ini - will only update that specific ini named skyrim.ini in the steam\skyrimvr folder. You must toggle this option off and then on to get the update. The other inis need to be updated separately if you are coming from an older version with changed in settings (assuming you even want to change the inis).
+5. update skyrim.ini - will only update that specific ini named skyrim.ini in the steam\skyrimvr folder. You must toggle this option off and then on to get the update. This has to be done once after installing FUS! The other inis need to be updated separately if you are coming from an older version with changed in settings (assuming you even want to change the inis).

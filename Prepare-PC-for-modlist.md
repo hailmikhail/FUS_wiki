@@ -18,7 +18,7 @@ If you want to disable the overlay, open the Properties window (right click the 
 
 ## Set the game language to English
 
-Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. We highly recommend playing the game in English and **will not give support to people with a non-English game**. Wabbajack does not support SkyrimVR files in other languages either. Wabbajack will fail file validation for other languages.
+Just do it. This entire modlist is in English and 99% of all mods you will find are also in English. We highly recommend playing the game in English and **will not give support to people with a non-English game**. Wabbajack does not support SkyrimVR files in other languages either. Wabbajack will fail file validation for other languages.
 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 

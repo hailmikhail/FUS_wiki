@@ -12,9 +12,9 @@ If you come to the discord and complain about performance and we find out you di
 
 ## Disable the Steam Overlay
 
-The Steam Overlay can cause issues with ENB and is recommended to be turned off.
+The Steam Overlay can cause issues with ENB and is recommended to be turned off. However, these issues are rare (personally I never experience any) and disabling the Steam overlay removes the option to get achievements which is enabled by the engine fixes mod. You can decide yourself which option you find more important.
 
-Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox. This can be done even when the game is not yet installed.
+IF you want to disable the overlay, open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox. This can be done even when the game is not yet installed.
 
 ## Set the game language to English
 

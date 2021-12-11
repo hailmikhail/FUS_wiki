@@ -22,10 +22,10 @@ Then you will see this menu and need to first disable all, and then enable like 
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/essential_files_steam.png?raw=true)
 
-If any options are already checked, then you should first uncheck them (grey) then check the essential files you need.
+If any options are already checked, then you should first uncheck them (grey) then check the essential files you need. If you switch options it is automatically synched, but using the synch button does not hurt either.
 
 1. You must activate the "00 Essential Files" option. 
 2. SteamVR - Necessary if you run the game via SteamVR.
-3. opencompoisite - This can replace SteamVR and will give Oculus users a strong performance boost. _Switch off SteamVR in that case!_ They replace each other.
+3. opencompoisite - This can replace SteamVR and will give Oculus users a strong performance boost. _Switch off the `steamVR` option in that case!_ They replace each other.
 4. openvr_fsr - AMD sharpener, not compatible with opencomposite, mixed reviews. Test at your own risk.
 5. update skyrim.ini - will only update that specific ini named skyrim.ini in the steam\skyrimvr folder. You must toggle this option off and then on to get the update. This has to be done once after installing FUS! The other inis need to be updated separately if you are coming from an older version with changed in settings (assuming you even want to change the inis).

@@ -44,7 +44,7 @@ Delete the following directories:
 
 Open Steam and ensure that Skyrim is uninstalled through on it. Otherwise, go up one step and clean it.
 
-Then, just install Skyrim VR from Steam. Install it to a library in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads, or Program Files folder. It's best to create a Steam library folder near the root level of your drive like `C:\SteamLibrary`.
+Then, just install Skyrim VR from Steam. Install it to a library in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads, or Program Files folder. It's best to create a Steam library folder near the root level of your drive like `C:\SteamLibrary`. For this in Steam, navigate to `steam > settings > steam library folders > click big plus button`. Then select the new library location when installing Skyrim VR.
 
 ## Start Skyrim
 

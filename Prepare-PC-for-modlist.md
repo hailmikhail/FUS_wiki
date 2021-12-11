@@ -44,7 +44,7 @@ Delete the following directories:
 
 Open Steam and ensure that Skyrim is uninstalled through on it. Otherwise, go up one step and clean it.
 
-Then, just install Skyrim VR from Steam.
+Then, just install Skyrim VR from Steam. Install it to a library in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads, or Program Files folder. It's best to create a Steam library folder near the root level of your drive like `C:\SteamLibrary`.
 
 ## Start Skyrim
 
@@ -53,4 +53,4 @@ Start the game and exit once you're in the main menu. This will make sure that s
 
 # Install Wabbajack
 
-Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`. Then run the executable. Windows will complain, but Wabbajack is a trusted open-source project, you need to press "more information" and then "run anyways".
+Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads, or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:\Wabbajack`. Then run the executable. Windows will complain, but Wabbajack is a trusted open-source project, you need to press "more information" and then "run anyways".

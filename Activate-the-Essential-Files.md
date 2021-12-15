@@ -26,7 +26,7 @@ If any options are already checked, then you should first uncheck them (grey) th
 
 1. You must activate the "Essential Files" option. 
 2. SteamVR - Necessary if you run the game via SteamVR.
-3. OpenComposite - This can replace SteamVR and will give Oculus users a strong performance boost. __FIRST__ _switch off the `SteamVR` option in that case!_ They replace each other.
+3. OpenComposite - This can replace SteamVR and will give Oculus users a strong performance boost. __FIRST__ _switch off the SteamVR option in that case!_ They replace each other.
 4. OpenVR FSR - AMD sharpener, not compatible with OpenComposite, mixed reviews. Test at your own risk.
 5. Update Skyrim INI - will only update that specific ini named skyrim.ini in the steam\skyrimvr folder. You must toggle this option off and then on to get the update. This has to be done once after installing FUS! The other inis need to be updated separately if you are coming from an older version with changed in settings (assuming you even want to change the inis).
-6. Real Virtual Magic Libraries - This is needed only if you use the Real Virtual Magic brain computer interface mod by Cangar.
+6. Real Virtual Magic Libraries - This is needed only if you use the Real Virtual Magic brain-computer interface mod by Cangar.

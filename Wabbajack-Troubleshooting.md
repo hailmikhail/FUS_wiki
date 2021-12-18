@@ -6,6 +6,18 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 In general, if there are connection issues or stuff like "Got a 521 from ...." or "Build server is down", sometimes you just need to wait it out. Maybe restart the process or possibly the whole PC, but don'T worry, you won't lose your progress!
 
+**"Unable to download openvr_api.dll"**: 
+
+Verify your files through Steam via following these steps:
+
+- Close Wabbajack
+- Open your Steam Library tab
+- Right-click the game title that you are modding
+- Select Properties
+- Select Local Files
+- Select Verify Integrity of Local Files
+- Launch Wabbajack and rerun the installer
+
 **"Missing nexusapikey"**:
 
 This can happen if the nexus is unavailable. Check if you can reach it in your browser.

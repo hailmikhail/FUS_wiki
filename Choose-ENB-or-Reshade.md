@@ -18,7 +18,7 @@ If any preset was marked as on, then switch them off, then switch on the selecti
 
 The best option for low performance impact but high visual gains including a sharp image is the `VRVision` reshade option. The best ENB option for this list is the `Sensorium` ENB which includes a sharpener. The `Luminous` ENB is also looking nice and the CAS sharpener is included by us. The other ENBs are not explicitly tested but we shipped them for your convenience. Use at your own risk and feel free to give us feedback if you tweaked them to work well with FUS! All options are mutually exclusive, only choose one!
 
-**IMPORTANT:** If you want to use the Sensorium ENB you need to change the ini using Bilago's Tool (start from MO2 in the dropdown): set `bUseFilmicCurve=0`. Probably also a good idea for the other ENBs although they don't explicitly demand it. Don't forget to switch it back on when choosing a Reshade again.
+**IMPORTANT:** If you want to use the Sensorium ENB you need to change the ini using the `INI Configuration Tool` (start from MO2 in the dropdown): set `bUseFilmicCurve=0`. Probably also a good idea for the other ENBs although they don't explicitly demand it. Don't forget to switch it back on when choosing a Reshade again.
 
 Only choose one option!
 

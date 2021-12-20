@@ -34,7 +34,7 @@ We are using these settings:
 Make sure you select all the worldspaces and make sure you update the values for all 4 lod settings.
 We are only using Terrain LODs. 
 
-After this has ran, copy the output and paste it into the xLODGen_Output. Press F5 to update MO2, and make sure that xLODGen_Output is an active mod before going to the next step.
+After this has ran, copy the output and paste it into the xLODGen_Output. Press F5 to update MO2, and make sure that xLODGen_Output is an active mod. Then optionally you can run Cathedral Asset Optimizer to transform the mod to a .bsa archive which is faster to load when the game starts. This is not necessary, if you don't want to do it, just remove the previous .bsa and .esp files.
 
 ## TexGen
 This will create LOD textures for us. Run `TexGen64` in MO2, then follow these settings:
@@ -44,7 +44,7 @@ This will create LOD textures for us. Run `TexGen64` in MO2, then follow these s
 Feel free to test different texture sizes. We are focusing on performance and find that these settings work fine.
 What you should be aware of is that we are using BC3 compression. This is strongly recommended for VR.
 
-When this has finished running, place the output into Texgen_output. Press F5 to update MO2, and make sure that Texgen_output is an active mod before going to the next step.
+When this has finished running, place the output into Texgen_output. Press F5 to update MO2, and make sure that Texgen_output is an active mod. Then optionally you can run Cathedral Asset Optimizer to transform the mod to a .bsa archive which is faster to load when the game starts. This is not necessary, if you don't want to do it, just remove the previous .bsa and .esp files.
 
 ## DynDOLOD
 
@@ -56,7 +56,7 @@ This will create the final LODs. Run `DynDOLODx64` in MO2, then select `Advanced
 
 To get these presets, just press `Load preset` at the bottom left of the DynDOLOD Advanced window. You do not have to change anything else, these presets work fine for the FUS list. If you added things to the world and find them missing in the LODs after you ran DynDOLOD, you can recreate the presets for your current load order by newly loading the DynDOLOD rules of your choice and setting the rules for trees (bottom of the rule window) like we have it in our preset of your choice.
 
-After this has ran, copy the output and paste it into the DynDOLOD_Output folder of your choice. Press F5 to update MO2, and make sure that DynDOLOD_Output is an active mod before going to the next step.
+After this has ran, copy the output and paste it into the DynDOLOD_Output folder of your choice. Press F5 to update MO2, and make sure that DynDOLOD_Output is an active mod before going to the next step. Do not run Cathedral Asset Optimizer on the DynDOLOD files.
 
 # Synthesis Patcher
 

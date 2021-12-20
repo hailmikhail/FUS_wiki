@@ -16,12 +16,17 @@ Now, lets go through the process.
 ## Deletion of current LOD files
 To delete the currently created LOD files, you need to delete the content of 3 folders (inside FUS\mods). NB do not delete the folder itself, only what is inside. We are reusing these folders and the names matter for the load order).
 
+NOTE: Most likely you do NOT want to delete `xLODGen_Output`. It is only necessary to do this if you change the landscape textures. We currently do not provide the tool to recreate them.
+
+```
 xLODGen_Output
 TexGen_Output
-DynDOLOD_Output_quality / DynDOLOD_Output_performance (depending on which option you prefer. You can delete both, just to be sure).
+DynDOLOD_Output (low - mid - high, depending on which option you used. You can delete all, just to be sure).
+```
 
 ## xLODGen
-The first lod files we create are the xlodgen files. This is terrain LODs.
+The first lod files we create are the xlodgen files. This is terrain LODs. To create them, you will need to download xLODGen and set it up in MO2, we currently do not ship FUS with this tool.
+
 We are using these settings:
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/lod%20settings/xlodgen_settings.png?raw=true)
@@ -32,31 +37,26 @@ We are only using Terrain LODs.
 After this has ran, copy the output and paste it into the xLODGen_Output. Press F5 to update MO2, and make sure that xLODGen_Output is an active mod before going to the next step.
 
 ## TexGen
-This is the most simple one to run. This will create LOD textures for us. Follow these settings:
+This will create LOD textures for us. Run `TexGen64` in MO2, then follow these settings:
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/lod%20settings/texgen_settings.png?raw=true)
 
 Feel free to test different texture sizes. We are focusing on performance and find that these settings work fine.
-What you should be aware of is that we are uxing BC3 compression. This is strongly recommended for VR.
+What you should be aware of is that we are using BC3 compression. This is strongly recommended for VR.
 
 When this has finished running, place the output into Texgen_output. Press F5 to update MO2, and make sure that Texgen_output is an active mod before going to the next step.
 
 ## DynDOLOD
 
-Here you have two options, performance or quality.
+This will create the final LODs. Run `DynDOLODx64` in MO2, then select `Advanced >>>`, then you have three presets provided by us:
 
-### Performance version
+* Low: uses low standard DynDOLOD settings and billboard tree LODs
+* Mid: uses medium standard DynDOLOD settings and performance 3D tree LODs -> default option
+* High: uses high standard DynDOLOD settings and quality 3D tree LODs -> very performance-intensive, only recommended for high-end PCs
 
-These are the recommended performance settings:
+To get these presets, just press `Load preset` at the bottom left of the DynDOLOD Advanced window. You do not have to change anything else, these presets work fine for the FUS list. If you added things to the world and find them missing in the LODs after you ran DynDOLOD, you can recreate the presets for your current load order by newly loading the DynDOLOD rules of your choice and setting the rules for trees (bottom of the rule window) like we have it in our preset of your choice.
 
-![image](https://github.com/Kvitekvist/FUS/blob/main/images/lod%20settings/dyndolod_performance_settings.png?raw=true)
-
-Make sure to select all the world spaces. Then click on Low (The difference between no LOD and low is massive, but the difference between low and medium is subtle).
-
-Next, scroll all the way down to Trees and update the values as shown in the screenshot.
-Make sure to follow all the other options from the screenshot as well. Then press Ok.
-
-After this has ran, copy the output and paste it into the DynDOLOD_Output_performance. Press F5 to update MO2, and make sure that DynDOLOD_Output_performance is an active mod before going to the next step.
+After this has ran, copy the output and paste it into the DynDOLOD_Output folder of your choice. Press F5 to update MO2, and make sure that DynDOLOD_Output is an active mod before going to the next step.
 
 # Synthesis Patcher
 
@@ -66,6 +66,7 @@ Every time you create new LODs and every time you change anything in the weather
 2. SkyVRaanAutoPatcher
 3. SynFloraFix
 4. Khajiitearsshow
-5. DisplaySpellTomeLevelPatcher
 6. LootableCrates
 7. SpellAbsorbFix
+
+You only need to run it, it automatically overwrites the previous synthesis.esp file.

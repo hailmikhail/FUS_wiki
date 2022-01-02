@@ -37,6 +37,10 @@ A very easy way to improve performance on Oculus devices is to use "opencomposit
 
 The Quest does not make best use of the pixels, so the best is to actually subsample by setting the render resolution to 0.7 as mentioned above. Oversampling will lead to compression artifacts and the Quest cannot actually make use of the pixels since it does not get the native image via link, but a compressed version.
 
+Also, keep in mind that supersampling stacks. So make very sure that you only adjust supersampling in one tool.
+If you use opencomposite, then set the ss in the opencomposite.ini
+If you do not use opencomposite, then set the ss in steamVR.
+
 ## Mods that don't work with opencomposite
 1. FPS Stabilizer
 2. MageVR

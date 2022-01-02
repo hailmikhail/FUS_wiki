@@ -36,3 +36,7 @@ In FUS there are four main options to improve performance:
 A very easy way to improve performance on Oculus devices is to use "opencomposite" in the essential files selection. This will break Mage VR, but the added performance is worth it. You can expect a 10-20% performance improvement. By default, we have included an opencomposite.ini that gets placed into the folder where skyrimvr.exe is located. This is where you can adjust supersampling. The default setting here is 0.7 (70%). You can increase or decrease this value to adjust supersampling.
 
 The Quest does not make best use of the pixels, so the best is to actually subsample by setting the render resolution to 0.7 as mentioned above. Oversampling will lead to compression artifacts and the Quest cannot actually make use of the pixels since it does not get the native image via link, but a compressed version.
+
+## Mods that don't work with opencomposite
+1. FPS Stabilizer
+2. MageVR

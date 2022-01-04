@@ -41,7 +41,7 @@ Also, keep in mind that supersampling stacks. So make very sure that you only ad
 If you use opencomposite, then set the ss in the opencomposite.ini
 If you do not use opencomposite, then set the ss in steamVR.
 
-## Mods that don't work with opencomposite
+## Stuff that don't work with opencomposite
 1. FPS Stabilizer
 2. MageVR
 3. Virtual Desktop

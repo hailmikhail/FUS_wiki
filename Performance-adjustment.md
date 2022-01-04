@@ -44,3 +44,4 @@ If you do not use opencomposite, then set the ss in steamVR.
 ## Mods that don't work with opencomposite
 1. FPS Stabilizer
 2. MageVR
+3. Virtual Desktop

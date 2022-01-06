@@ -22,11 +22,13 @@ Then you will see this menu and need to first disable all, and then enable like 
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/essential_files_steam.png?raw=true)
 
-If any options are already checked, then you should first uncheck them (grey) then check the essential files you need. If you switch options it is automatically synched, but using the synch button does not hurt either.
+If any options are already checked, then you should first uncheck them (grey) then check the essential files you need. 
 
-1. You must activate the "Essential Files" option. 
-2. SteamVR - Necessary if you run the game via SteamVR.
-3. OpenComposite - This can replace SteamVR and will give Oculus users a strong performance boost. __FIRST__ _switch off the SteamVR option in that case!_ They replace each other. IMPORTANT: This will break `VR FPS Stabilizer` and `Mage VR`, but the performance boost is worth it for most users.
-4. OpenVR FSR - AMD sharpener, not compatible with OpenComposite, mixed reviews. Test at your own risk.
-5. Update Skyrim INI - will only update that specific ini named skyrim.ini in the steam\skyrimvr folder. You must toggle this option off and then on to get the update. This has to be done once after installing FUS! The other inis need to be updated separately if you are coming from an older version with changed in settings (assuming you even want to change the inis).
-6. Real Virtual Magic Libraries - This is needed only if you use the Real Virtual Magic brain-computer interface mod by Cangar.
+Always press the `Synch` button after you change options!
+
+* You must activate the "Essential Files" option. 
+* SteamVR - Vanilla SteamVR options, this is the default `openvr_api.dll` file without manipulations.
+* OpenComposite - This replaces the SteamVR default `openvr_api.dll` and will give Oculus users a strong performance boost. __FIRST__ _switch off the SteamVR option in that case!_ The files replace each other. IMPORTANT: This will break `Virtual Desktop`, `VR FPS Stabilizer` and `Mage VR`, but the performance boost is worth it for most users.
+* OpenVR Fixed Foveated Rendering - This also replaces the `openvr_api.dll` file and is thus incompatible with the others. It enables fixed foveated rendering. See the [original page](https://github.com/fholger/openvr_foveated/) for explanations. It does give a slight flicker in the very edges, but you can adjust the rings in the configuration file of FFR to tweak it until you are happy with it. If you change the stuff best change it directly in the Skyrim VR base game folder and make a backup so in case it gets overwritten by a new FUS update you can use your settings again. The defaults we provide are giving a slight performance improvement while having almost no impact on the visuals (we also disabled the Nvidia sharpener because CAS is better in our case), hence we recommend using it. If you find it too annoying either make the rings even larger or just use the default SteamVR option.
+* OpenVR FSR - AMD sharpener, not compatible with OpenComposite, mixed reviews. Test at your own risk.
+* Real Virtual Magic Libraries - This is needed only if you use the Real Virtual Magic brain-computer interface mod by Cangar.

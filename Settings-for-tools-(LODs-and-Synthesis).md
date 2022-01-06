@@ -69,4 +69,6 @@ Every time you create new LODs and every time you change anything in the weather
 6. LootableCrates
 7. SpellAbsorbFix
 
-You only need to run it, it automatically overwrites the previous synthesis.esp file.
+You only need to run it, it automatically overwrites the previous Synthesis.esp file.
+
+If you added mods, make 100% sure that `Synthesis.esp` loads at the very very last in your load order. Literally the very end, no exceptions!

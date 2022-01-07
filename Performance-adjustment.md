@@ -18,6 +18,31 @@ All tools give you some sort of understanding how much your GPU is doing while y
 
 You will see frame times for CPU and GPU there. This means the time it takes for your CPU (processor) or GPU (graphics card) to create the next image for your display. This needs to be **bewlow** 1/refresh rate, i.e. 1/90 Hz = 0.0111 seconds = 11.1 ms for the HTC Vive. Or you can choose to force reprojection always on and increase the refresh rate again, e.g. I am playing on a Valve Index set to 144 Hz but forced reprojection (leading to 72 Hz effective refresh rate), which in turn means my frametime must be below 1/72 = 0.0138 = 13.8 ms.
 
+### For Quest users - Oculus Debug Tool
+![image](https://github.com/Kvitekvist/FUS/blob/main/images/aws.jpg?raw=true)
+Setting fixed (half frame rate) (1)
+
+With ASW (Asynchronous SpaceWarp) you can do two things. You can cap the refresh rate, and you can cap the refresh rate plus adding reprojection.
+If you struggle to keep max fps during your play, you might want to try this. For me (Kvitekvist), it feels much better to have a fixed FPS all the time, compared to having variable frame rates.
+To do this, simple activate Asynchronous Spacewarp and set it to "Force 45 FPS, ASW Disabled". The number 45 is a little misleading. It actually means "Cap fps at half of your headsets refresh rate".
+So, if you have a Quest1 with 72 mhz refresh rate, then your capped frame rate will be 36. If you have 90 mhz, then you will have 45 FPS, and if you have 120 mhz then you will get 60 FPS.
+With the second option, "Force 45 FPS, ASW Enabled", you get the same effect as above, but you also get a sort of motion smoothing effect:
+
+"Asynchronous SpaceWarp (ASW) is a frame-rate smoothing technique that almost halves the CPU/GPU time required to produce nearly the same output from the same content."
+You can read more about it ![here](https://developer.oculus.com/documentation/native/pc/asynchronous-spacewarp/)"
+
+Some people really like this, others do not (as it also introduces some sort of ghosting effects).
+
+
+Checking Performance on Quest (2)
+
+Using the Debug tool (see screenshot) then you can enable the Performance overlay HUD.
+Then, when the headset is active, you can see your current App frame rate hz (3) and your current headroom (4)
+
+Consider App Frame Rate your FPS number. If you see this dipping a lot, then your hardware / software settings are not able to keep up, and you might benifit from activating ASW.
+
+The Performance Headroom is an indicator of how much load you are under. A high number is good, a low number is bad. Bad means you might experience stutter or skipped frames.
+
 **Important!** 
 
 If your GPU is not at max load, but you still see reprojection, this is perfectly normal. This means your PC is not able to create new images every time the display refreshes, so it reprojects the old one. This gives your GPU more headroom (= less usage), but you will see a chopper image. This can be caused by both the CPU and the GPU not being fast enough. It looks like a GPU load of 70% means you are fine, but you cannot rely on this. The only measure that is valid is the frametime! 

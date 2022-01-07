@@ -20,6 +20,7 @@ You will see frame times for CPU and GPU there. This means the time it takes for
 
 ### For Quest users - Oculus Debug Tool
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/aws.jpg?raw=true)
+
 Setting fixed (half frame rate) (1)
 
 With ASW (Asynchronous SpaceWarp) you can do two things. You can cap the refresh rate, and you can cap the refresh rate plus adding reprojection.

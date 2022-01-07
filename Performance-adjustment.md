@@ -21,7 +21,7 @@ You will see frame times for CPU and GPU there. This means the time it takes for
 ### For Quest users - Oculus Debug Tool
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/aws.jpg?raw=true)
 
-Setting fixed (half frame rate) (1)
+####Setting fixed (half frame rate) (1)
 
 With ASW (Asynchronous SpaceWarp) you can do two things. You can cap the refresh rate, and you can cap the refresh rate plus adding reprojection.
 If you struggle to keep max fps during your play, you might want to try this. For me (Kvitekvist), it feels much better to have a fixed FPS all the time, compared to having variable frame rates.
@@ -35,7 +35,7 @@ You can read more about it ![here](https://developer.oculus.com/documentation/na
 Some people really like this, others do not (as it also introduces some sort of ghosting effects).
 
 
-Checking Performance on Quest (2)
+####Checking Performance on Quest (2)
 
 Using the Debug tool (see screenshot) then you can enable the Performance overlay HUD.
 Then, when the headset is active, you can see your current App frame rate hz (3) and your current headroom (4)

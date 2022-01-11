@@ -65,9 +65,9 @@ A very easy way to improve performance on Oculus devices is to use "OpenComposit
 #### With open composite, you will see VIVE Wands instead of Quest controllers. 
 This is just a visual feature (described on opencomposite github) and there is no fix, but quest controllers and buttons still work as intended.
 
-By default, we have included an opencomposite.ini that gets placed into the folder where skyrimvr.exe is located. This is where you can adjust supersampling. The default setting here is 0.7 (70%). You can increase or decrease this value to adjust supersampling.
+By default, we have included an opencomposite.ini that gets placed into the folder where skyrimvr.exe is located. This is where you can adjust supersampling for Skyrim VR specifically. The default setting here is 1.0 (100%). You can increase or decrease this value to adjust supersampling, even values as low as 0.7 might make sense to save performance.
 
-The Quest does not make best use of the pixels, so the best is to actually subsample by setting the render resolution to 0.7 as mentioned above. Oversampling will lead to compression artifacts and the Quest cannot actually make use of the pixels since it does not get the native image via link, but a compressed version.
+The Quest does not make best use of the pixels, so the best is to actually subsample by setting the render resolution to 0.7 as mentioned above. Oversampling will lead to compression artifacts and the Quest cannot actually make use of the pixels since it does not get the native image via link, but a compressed version. If you find the game too blurry try slowly increasing this value back to not more than 1.0 again.
 
 Also, keep in mind that supersampling stacks. So make very sure that you only adjust supersampling in one tool.
 If you use OpenComposite, then set the ss in the opencomposite.ini, have all other options set to 1.0

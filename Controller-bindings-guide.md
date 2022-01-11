@@ -31,7 +31,7 @@ Importantly, the `Cangar` bindings do not have a shout button, as I shout only w
 
 ## Menus
 
-These bindings will be used in menus. Loot menus are slightly different than the regular item menu.
+These bindings will be used in menus. They are part of the other bindings! Loot menus are slightly different than the regular item menu.
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/Bindings_menu_Vanilla-Kvite-Cangar.png)
 

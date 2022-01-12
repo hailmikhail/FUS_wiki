@@ -60,7 +60,7 @@ After this has ran, copy the output and paste it into the DynDOLOD_Output folder
 
 # Synthesis Patcher
 
-Every time you create new LODs and every time you change anything in the weather setup then you should also rerun Synthesis with these patchers enabled:
+Every time you create new LODs and every time you change anything in the weather setup or anything that touches cells, then you should also rerun Synthesis with these patchers enabled:
 
 1. SkyVRaanWeatherPatcher
 2. SkyVRaanAutoPatcher

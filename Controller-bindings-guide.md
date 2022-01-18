@@ -16,7 +16,7 @@ In MO2 you can select different bindings or none at all (that will use vanilla b
 
 ## General
 
-These bindings are for general gameplay.
+These bindings are for general gameplay. Note that the touchpads not only work for VRIK using the Valve Index controllers but also the reverb G2.
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/Bindings_general_Vanilla.png)
 

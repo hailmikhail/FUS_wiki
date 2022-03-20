@@ -14,4 +14,4 @@
 So, here's the full list:
 
 
-![image](https://github.com/Kvitekvist/FUS/blob/main/images/all_mods.png?raw=true)
+![image](https://github.com/Kvitekvist/FUS/blob/main/images/FUS%20all%20mods.jpg)

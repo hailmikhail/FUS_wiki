@@ -21,7 +21,7 @@ Then navigate to the Presets menu by pressing the symbol in the top left (the th
 
 Then you will see this menu and need to first disable all, and then enable like this:
 
-![image](https://github.com/Kvitekvist/FUS/blob/main/images/activate_essential_files_2.jpg)
+![image](https://github.com/Kvitekvist/FUS/blob/main/images/activate_essential_files_3.jpg)
 
 If any options are already checked, then you should first uncheck them (grey) then check the essential files you need. 
 

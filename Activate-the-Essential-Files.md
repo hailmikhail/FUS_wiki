@@ -8,7 +8,7 @@ DO NOT RUN LOOT! Everytime you run LOOT a kitten dies and we cry in the corner. 
 
 First, run the program named Essentials Files from Mod Organizer 2.
 
-![image](https://i.ibb.co/KrvCB09/essentials1.jpg)
+![image](https://github.com/Kvitekvist/FUS/blob/main/images/essential%20files.jpg)
 
 Then Click "OK" if you get a message saying something about "Failed to check for update". This is ok.
 

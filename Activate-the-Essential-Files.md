@@ -7,6 +7,7 @@ This step will add the required files for SKSE, Engine Fixes, DLL loader and oth
 DO NOT RUN LOOT! Everytime you run LOOT a kitten dies and we cry in the corner. The load order is exactly as it should be, do not change it.
 
 First, run the program named Essentials Files from Mod Organizer 2.
+If you don't find the Essentials Files in the dropdown, then Wabbajack did not install successfully. Re-run wabbajack and pay attention to errors during install.
 
 ![image](https://github.com/Kvitekvist/FUS/blob/main/images/essential%20files.jpg)
 

@@ -16,7 +16,7 @@ Then navigate to the Presets menu by pressing the symbol in the top left (the th
 Now here, you can choose from a list of different ENB/Reshade profiles. _Only choose one!_ There are 3 difference performance indicators in their names. Low means low performance cost, Medium means medium performance cost and High means high performance cost. 
 If any preset was marked as on, then switch them off, then switch on the selection of your choice. 
 
-Don't forget to press the `Synch` button after you changed settings.
+Don't forget to press the `Sync` button after you changed settings.
 
 The best option for low performance impact but high visual gains including a sharp image is the [Glamur](https://www.nexusmods.com/skyrimspecialedition/mods/61434) reshade option. It contains two sharpeners, ambient occlusion, and fake global illumination for a surprisingly low performance cost. The best option for absolutely minimal performance impact is [The Sharper Eye](https://www.nexusmods.com/skyrimspecialedition/mods/46999) which contains only the CAS sharpener. The best ENB option for this list is the [Sensorium ENB](https://www.nexusmods.com/skyrimspecialedition/mods/52442) which includes the CAS sharpener. The [Luminous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/197) is also looking nice and the CAS sharpener is included by us. The other ENBs are not explicitly tested but we shipped them for your convenience. Use at your own risk and feel free to give us feedback if you tweaked them to work well with FUS! All options are mutually exclusive, only choose one!
 

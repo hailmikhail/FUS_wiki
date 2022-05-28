@@ -25,7 +25,7 @@ Then you will see this menu and need to first disable all, and then enable like 
 
 If any options are already checked, then you should first uncheck them (grey) then check the essential files you need. 
 
-Always press the `Synch` button after you change options!
+Always press the `Sync` button after you change options!
 
 * You must activate the "Essential Files" option. 
 
@@ -36,4 +36,4 @@ Always press the `Synch` button after you change options!
 * VR Performance Toolkit. Read about it here: https://github.com/fholger/vrperfkit
 * Real Virtual Magic Libraries - This is needed only if you use the Real Virtual Magic brain-computer interface mod by Cangar.
 
-Always press the `Synch` button after you change options!
+Always press the `Sync` button after you change options!

@@ -14,4 +14,4 @@
 So, here's the full list:
 
 
-![image](https://github.com/Kvitekvist/FUS/blob/main/images/FUS%20all%20mods.jpg)
+[Modlist Content Overview](https://app.powerbi.com/view?r=eyJrIjoiMDE4NTA0ZTMtOWMzNy00OTIxLTg0NzctN2FkNzNlM2ZhM2JiIiwidCI6ImY3MTc4NmIzLTY4YzAtNDQ1NC04ZGE1LWI5N2NlZWEzMjZlNiIsImMiOjh9&pageName=ReportSection1d1d6d2610f6ce70d78d)

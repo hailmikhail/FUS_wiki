@@ -66,8 +66,9 @@ Every time you create new LODs and every time you change anything in the weather
 2. SkyVRaanAutoPatcher
 3. SynFloraFix
 4. Khajiitearsshow
-6. LootableCrates
-7. SpellAbsorbFix
+5. LootableCrates
+6. SpellAbsorbFix
+7. SpeedAndReachFixes
 
 You only need to run it, it automatically overwrites the previous Synthesis.esp file.
 

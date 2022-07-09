@@ -27,7 +27,8 @@ If any options are already checked, then you should first uncheck them (grey) th
 
 Always press the `Sync` button after you change options (Sync wont work or do anything when everything is toggled off)!
 
-### First time booting FUS, **ONLY ** enable Essential files. You can try the other options after that you have verified that the game launches as intended.
+### First time booting FUS, **ONLY ** enable Essential files. 
+You can try the other options after that you have verified that the game launches as intended.
 
 * You must activate the "Essential Files" option. 
 

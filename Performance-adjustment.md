@@ -60,7 +60,7 @@ In FUS there are five main options to improve performance:
 
 ## A note on Oculus Quest and other Oculus (Meta) devices
 
-A very easy way to improve performance on Oculus devices is to use "OpenComposite" in the essential files selection. This will break Virtual Desktop, VR FPS Stabilizer, and Mage VR (so you cannot use either of these anymore), but the added performance is worth it. You can expect a 10-20% performance improvement. 
+A very easy way to improve performance on Oculus devices is to use "OpenComposite" in the essential files selection. This will break Virtual Desktop and Mage VR (so you cannot use either of these anymore), but the added performance is worth it. You can expect a 10-20% performance improvement. 
 
 #### With open composite, you will see VIVE Wands instead of Quest controllers. 
 This is just a visual feature (described on opencomposite github) and there is no fix, but quest controllers and buttons still work as intended.

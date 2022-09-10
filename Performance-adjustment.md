@@ -75,7 +75,6 @@ If you do not use OpenComposite, then set the ss in steamVR, have all other opti
 
 ### Stuff that doesn't work with OpenComposite
 1. Virtual Desktop
-2. VR FPS Stabilizer
 3. MageVR
 
 If you do not want to use OpenComposite, we recommend using Fixed Foveated Rendering instead (see above).

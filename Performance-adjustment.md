@@ -8,7 +8,7 @@ Then, FUS comes with a few options that can be changed in order to get the best 
 
 ## How to check performance
 
-Several tools exist for this. If you have an Oculus (Meta...) device, you can open the debug tool, then on the HUD Display dropdown choose "Performance". Then you will get an FPS and headroom counter while u play. You can also use [fpsVR](https://store.steampowered.com/app/908520/fpsVR/), or you can just use the native SteamVR Advanced Frametimer if you are on SteamVR:
+Several tools exist for this. If you have an Oculus (Meta) device, you can open the [debug tool](https://developer.oculus.com/documentation/native/pc/dg-debug-tool), then on the HUDs section "Visible HUD" dropdown choose "Performance". Then you will get an FPS and headroom counter while u play. You can also use [fpsVR](https://store.steampowered.com/app/908520/fpsVR/), or you can just use the native SteamVR Advanced Frametimer if you are on SteamVR:
 
 ![Frametimer](https://github.com/Kvitekvist/FUS/blob/main/images/frametimer.png)
 

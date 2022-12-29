@@ -25,7 +25,7 @@ Then you will see this menu and need to first disable all, and then enable like 
 
 If any options are already checked, then you should first uncheck them (grey) then check the essential files you need. 
 
-Always press the `Sync` button after you change options (Sync wont work or do anything when everything is toggled off)!
+Never press the `Sync` button.
 
 ### First time booting FUS, **ONLY ** enable Essential files. 
 You can try the other options after that you have verified that the game launches as intended.
@@ -38,5 +38,3 @@ You can try the other options after that you have verified that the game launche
 * OpenComposite - This replaces the SteamVR default `openvr_api.dll` and will give Oculus users a strong performance boost. __FIRST__ _switch off the SteamVR option in that case!_ The files replace each other. IMPORTANT: This will break `Virtual Desktop`, `VR FPS Stabilizer` and `Mage VR`, but the performance boost is worth it for most users.
 * VR Performance Toolkit. Read about it here: https://github.com/fholger/vrperfkit
 * Real Virtual Magic Libraries - This is needed only if you use the Real Virtual Magic brain-computer interface mod by Cangar.
-
-Always press the `Sync` button after you change options!

@@ -9,15 +9,17 @@ Please ensure you have .NET v5.0 installed. Download the desktop app x64 AND the
 
 # Steam Config
 
-First of all, we **highly recommend not using any supersampling**, neither in Steam/Oculus, nor ingame. Set the render resolution to 100% (or 1.0 in Oculus) everywhere (in SteamVR remember to *definitely check* both the gobal video settings as well as the game specific settings so that they are at 100%). Supersampling is a very inefficient way of anti-aliasing and given the hunger for performance in Skyrim VR you most likely will drop into reprojection when you try using it. 
+First of all, we recommend **not using any supersampling**, neither in Steam/Oculus, nor ingame. Set the render resolution to 100% (or 1.0 in Oculus) everywhere (in SteamVR remember to *definitely check* both the gobal video settings as well as the game specific settings so that they are at 100%). Supersampling is a very inefficient way of anti-aliasing and given the hunger for performance in Skyrim VR you most likely will drop into reprojection when you try using it. If you really think you need it, be advised that it costs you.
 
 If you come to the discord and complain about performance and we find out you did use more than 100% render resolution we will shame you.
 
 ## Disable the Steam Overlay
 
-The Steam Overlay can cause issues with ENB and is sometimes recommended to be turned off. However, these issues are rare (personally I never experience any) and disabling the Steam overlay means you don't see your achievements which are enabled by the engine fixes mod. You can decide yourself which option you find more important.
+The Steam Overlay can cause issues with ENB and is **sometimes** recommended to be turned off. However, these issues are rare (personally I never experience any) and disabling the Steam overlay means **you don't get achievements** which are enabled by the engine fixes mod. You can decide yourself which option you find more important.
 
-If you want to disable the overlay, open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox. This can be done even when the game is not yet installed.
+If you want to disable the overlay, open the Properties window (right-click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox. This can be done even when the game is not yet installed.
+
+Again, in this case, you will not be able to get achievements.
 
 ## Set the game language to English
 

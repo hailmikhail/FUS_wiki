@@ -4,12 +4,12 @@
 
 We doubt you need to do this since you likely already have this installed, but better safe than sorry. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
-# Install .NET version 5.0 (Yes the outdated one)
-Please ensure you have .NET v5.0 installed. Download the desktop app x64 AND the console app x64 versions from Microsoft here: https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime
+# Install .NET version 8.0
+Please ensure you have .NET v8.0 installed. Download the desktop app x64 AND the console app x64 versions from Microsoft here: https://dotnet.microsoft.com/en-us/download/dotnet/8.0/runtime
 
 # Steam Config
 
-First of all, we recommend **not using any supersampling**, neither in Steam/Oculus, nor ingame. Set the render resolution to 100% (or 1.0 in Oculus) everywhere (in SteamVR remember to *definitely check* both the gobal video settings as well as the game specific settings so that they are at 100%). Supersampling is a very inefficient way of anti-aliasing and given the hunger for performance in Skyrim VR you most likely will drop into reprojection when you try using it. If you really think you need it, be advised that it costs you.
+First of all, we recommend **not using any supersampling**, neither in Steam/Oculus, nor ingame. Set the render resolution to 100% (or 1.0 in Oculus) everywhere (in SteamVR remember to *definitely check* both the global video settings as well as the game specific settings so that they are at 100%). Supersampling is a very inefficient way of anti-aliasing and given the hunger for performance in Skyrim VR you most likely will drop into reprojection when you try using it. If you really think you need it, be advised that it costs you.
 
 If you come to the discord and complain about performance and we find out you did use more than 100% render resolution we will shame you.
 
